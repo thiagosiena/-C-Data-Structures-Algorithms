@@ -6,7 +6,7 @@ This repository contains C implementations of various data structures algorithms
 ## How to Contribute
 
 1. **Fork** this repository.
-2. **Clone** your fork: `git clone https://github.com/your-username/data-structures-c-algorithms.git`
+2. **Clone** your fork: `git clone https://github.com/your-username/C-Data-Structures-Algorithms.git`
 3. Create a branch for your contribution: `git checkout -b feature/your-contribution`
 4. Implement changes, run tests.
 5. **Commit** your changes: `git commit -m "Add algorithm for ..."`
